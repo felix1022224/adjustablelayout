@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdjustableLayout</string>
+
+    <string name="test_1">测试1</string>
+    <string name="test_2">测试2</string>
+    <string name="test_3">测试3</string>
+    <string name="test_4">测试4</string>
+
+</resources>
